@@ -85,9 +85,9 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-file:///home/user/Desktop/Screenshot%20at%202025-04-29%2007-24-52.png![image](https://github.com/user-attachments/assets/2b312b78-28a2-49a1-80e2-b9e002e21441)
-file:///home/user/Desktop/Screenshot%20at%202025-04-29%2007-25-33.png![image](https://github.com/user-attachments/assets/983ec087-35f3-4092-97c2-75cb458d08e6)
-file:///home/user/Desktop/Screenshot%20at%202025-04-29%2007-27-44.png![image](https://github.com/user-attachments/assets/baaed23c-5647-4699-8d83-66992165faeb)
+![image](https://github.com/user-attachments/assets/2b312b78-28a2-49a1-80e2-b9e002e21441)
+![image](https://github.com/user-attachments/assets/983ec087-35f3-4092-97c2-75cb458d08e6)
+![image](https://github.com/user-attachments/assets/baaed23c-5647-4699-8d83-66992165faeb)
 
 
 
