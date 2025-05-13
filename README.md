@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    key = ftok("progfile", 65);
+    key = ftok("msqueue.c", 65);
     if (key == -1) {
         perror("ftok");
         return 1;
